@@ -5,7 +5,7 @@ from .base import *
 DEBUG = False
 
 ADMINS = [
-    ('Antonio M', 'email@mydomain.com'),
+    ('kelvin', 'kelvinnuamah123@gmail.com'),
 ]
 
 ALLOWED_HOSTS = ['.educaproject.com']
